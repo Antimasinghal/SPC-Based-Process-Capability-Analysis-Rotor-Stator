@@ -15,19 +15,13 @@ The objective was to shift the quality system from a reactive inspection-based a
 - Establish a sustainable SPC monitoring system
 
 #### 🔬 Methodology & Workflow
-Shop Floor Study
-        ↓
-Data Collection Plan
-        ↓
-SPC Implementation (X̄, R, S Charts)
-        ↓
-Root Cause Analysis (Pareto)
-        ↓
-Process Capability Evaluation (Cp, Cpk)
-        ↓
-Corrective Actions & Stabilization
-        ↓
-Revalidation & Standardization
+- Shop Floor Study
+- Data Collection Plan
+- SPC Implementation (X̄, R, S Charts)
+- Root Cause Analysis (Pareto)
+- Process Capability Evaluation (Cp, Cpk)
+- Corrective Actions & Stabilization
+- Revalidation & Standardization
 
 #### 📏 Critical Quality Parameters
 The following dimensions were identified as critical to assembly performance:
@@ -44,6 +38,7 @@ The following dimensions were identified as critical to assembly performance:
 Cp > 1.33
 Cpk > 1.33
 Manufacturing process confirmed stable and capable
+<img width="1261" height="967" alt="Screenshot 2026-02-21 201333" src="https://github.com/user-attachments/assets/89f6d109-613c-46ee-b29d-1a9a977298c7" />
 
 #### 🛠️ Tools & Techniques Applied
 - Statistical Process Control (SPC)
