@@ -1,4 +1,4 @@
-#### 📊 Statistical Process Control & Process Capability Analysis
+## 📊 Statistical Process Control & Process Capability Analysis
    Rotor–Stator Lamination Manufacturing
 
 🎓 Academic Minor Project | 🏭 Industrial Case Study | 📈 Quality Improvement Initiative
